@@ -1,5 +1,5 @@
 # # 💫 About Me:
-# Hi, I'm Nathan Salvadé 👋<br><br>I'm an IT Infrastructure Apprentice based in Switzerland, passionate about software development, Linux systems and automation.<br><br>## 🚀 About Me<br>- 💻 Building web applications and automation projects<br>- 🐧 Managing Ubuntu Server 22.04 LTS environments<br>- 🌐 Hosting my personal website: https://famsalvade.com<br>- 📚 Continuously improving my skills in software development and system administration<br><br>## 🛠️ Technologies<br>- Java<br>- Python<br>- HTML, CSS & JavaScript<br>- Ubuntu Server<br>- MySQL<br>- Git & GitHub<br>- Cisco Packet Tracer<br>- Oracle VirtualBox<br>- Visual Studio Code<br>- AI & LLM Integration
+# Hi, I'm Nathan Salvadé 👋<br><br>I'm an IT Infrastructure Apprentice based in Switzerland, passionate about software development, Linux systems and automation.<br><br>## 🚀 About Me<br>- 💻 Building web applications and automation projects<br>- 🐧 Managing Ubuntu Server 24.04.4 LTS environments<br>- 🌐 Hosting my personal website: https://famsalvade.com<br>- 📚 Continuously improving my skills in software development and system administration<br><br>## 🛠️ Technologies<br>- Java<br>- Python<br>- HTML, CSS & JavaScript<br>- Ubuntu Server<br>- MySQL<br>- Git & GitHub<br>- Cisco Packet Tracer<br>- Oracle VirtualBox<br>- Visual Studio Code<br>- AI & LLM Integration
 
 
 ## 🌐 Socials:
