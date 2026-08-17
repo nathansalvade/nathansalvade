@@ -17,7 +17,7 @@
 
 - IT infrastructure apprentice, learning systems and software development in parallel.
 - I run an **Ubuntu Server 24.04 LTS** environment and self-host my own site at [famsalvade.com](https://famsalvade.com).
-- Most of what I learn comes from building things and keeping them running: web apps, automation scripts, databases and the fixes when something breaks.
+- Most of what I learn comes from building things and keeping them running: web apps, remote access, DNS, TLS, and the fixes when something breaks.
 - Interested in **AI &amp; LLM integration** and in automating the boring parts of sysadmin work.
 
 
@@ -39,11 +39,13 @@
 **Systems &amp; virtualization**
 
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server_24.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Networking &amp; ops**
 
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
@@ -62,50 +64,41 @@
 
 ## Selected projects
 
-<!--
-  QUESTA È LA PARTE IMPORTANTE — quella che rende forte il README del tuo amico.
-  Per ogni progetto, sostituisci i segnaposto. Struttura consigliata:
-  - una riga di descrizione (cosa fa e per chi)
-  - 3-5 bullet CONCRETI: stack usato, un dettaglio tecnico che hai risolto, numeri se ne hai
-  - riga finale con i tag della tecnologia
-  Se un progetto è online, metti il link nel titolo come per famsalvade.com.
--->
-
 ### famsalvade.com — [famsalvade.com](https://famsalvade.com)
 
-<!-- Descrivi il tuo sito personale: cos'è, dove gira, come lo hai messo online. -->
-Personal website, self-hosted on my own Ubuntu Server.
+Personal portfolio site with a password-protected private area, self-hosted on my own Ubuntu Server 24.04 LTS.
 
-- [ ] Stack: <!-- es. Apache + MySQL, dove gira, come fai il deploy -->
-- [ ] Un dettaglio tecnico che hai risolto: <!-- es. TLS/HTTPS, reverse proxy, Cloudflare, backup -->
-- [ ] Qualcosa di misurabile: <!-- uptime, numero di pagine, prestazioni... -->
+- Served with **Apache** on my own Ubuntu Server, fully self-hosted
+- **Private area** gated by a password that is verified against a stored **hash** — never kept in plaintext
+- Set up **HTTPS** by purchasing and installing the SSL certificate manually (no certbot / automated issuance)
+- Managed the **DNS zone on Infomaniak**: edited A records to add and route subdomains
 
-`Ubuntu Server` · `Apache` · `MySQL` · `Cloudflare`
+`Ubuntu Server` · `Apache` · `MySQL` · `Infomaniak DNS` · `SSL/TLS`
 
-### [Nome progetto 2] — [breve descrizione]
+### Homelab &amp; remote access
 
-<!-- es. un progetto di automazione, uno script Python, un'integrazione LLM... -->
-[Una riga: cosa fa e perché l'hai costruito.]
+Ubuntu Server for self-hosted services, kept reachable and manageable from anywhere without leaving it powered on 24/7.
 
-- [ ] [Dettaglio 1]
-- [ ] [Dettaglio 2]
-- [ ] [Dettaglio 3]
+- **Jellyfin** media server self-hosted on the same Ubuntu Server
+- A **Raspberry Pi 4** runs **Tailscale** as an always-on, low-power entry point into the network
+- A small self-hosted page triggers a **remote power-on (Wake-on-LAN)** of the main server; once it boots I manage it over **SSH**
+- Result: the main server stays off when idle but can be woken and administered on demand from anywhere
 
-`Python` · `[tecnologia]` · `[tecnologia]`
+`Raspberry Pi 4` · `Tailscale` · `Wake-on-LAN` · `SSH` · `Jellyfin`
 
-### [Nome progetto 3] — [breve descrizione]
+## Certifications
 
-[Una riga di descrizione.]
+**Anthropic**
 
-- [ ] [Dettaglio 1]
-- [ ] [Dettaglio 2]
+- Claude 101 — [verify](https://verify.skilljar.com/c/xifkxe8dw86q)
+- Claude Code 101 — [verify](https://verify.skilljar.com/c/iv2q8ru7wyv3)
+- Claude Code in Action — [verify](https://verify.skilljar.com/c/sn4ubv25t3d8)
 
-`[tecnologia]` · `[tecnologia]`
+**Microsoft Learn**
 
-<!--
-  Se vuoi rimettere le statistiche/trofei GitHub che avevi prima, incolla qui sotto.
-  Il README del tuo amico non le usa (stile più sobrio), quindi le ho tolte dalla bozza:
-  puoi lasciarle fuori per un look più professionale, oppure riaggiungerle.
--->
+- Introduction to artificial intelligence concepts — [verify](https://learn.microsoft.com/api/achievements/share/it-it/nathansalvade/NQJNP8MF?sharingId=695F43D23823D554)
+- Introduction to natural language processing (NLP) concepts — [verify](https://learn.microsoft.com/api/achievements/share/it-it/nathansalvade/NQJNKE4F?sharingId=695F43D23823D554)
+- Introduction to AI and generative agents — [verify](https://learn.microsoft.com/api/achievements/share/it-it/nathansalvade/7D67BHLZ?sharingId=695F43D23823D554)
+
 
 > Repositories are being published progressively.
