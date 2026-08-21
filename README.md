@@ -96,9 +96,9 @@ Ubuntu Server for self-hosted services, kept reachable and manageable from anywh
 
 **Microsoft Learn**
 
-- Introduction to artificial intelligence concepts — [verify](https://learn.microsoft.com/api/achievements/share/it-it/nathansalvade/NQJNP8MF?sharingId=695F43D23823D554)
-- Introduction to natural language processing (NLP) concepts — [verify](https://learn.microsoft.com/api/achievements/share/it-it/nathansalvade/NQJNKE4F?sharingId=695F43D23823D554)
-- Introduction to AI and generative agents — [verify](https://learn.microsoft.com/api/achievements/share/it-it/nathansalvade/7D67BHLZ?sharingId=695F43D23823D554)
+- Introduction to artificial intelligence concepts — [verify](https://learn.microsoft.com/api/achievements/share/en-us/nathansalvade/NQJNP8MF?sharingId=695F43D23823D554)
+- Introduction to natural language processing (NLP) concepts — [verify](https://learn.microsoft.com/api/achievements/share/en-us/nathansalvade/NQJNKE4F?sharingId=695F43D23823D554)
+- Introduction to AI and generative agents — [verify](https://learn.microsoft.com/api/achievements/share/en-us/nathansalvade/7D67BHLZ?sharingId=695F43D23823D554)
 
 
 > Repositories are being published progressively.
