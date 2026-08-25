@@ -86,7 +86,7 @@ Ubuntu Server for self-hosted services, kept reachable and manageable from anywh
 
 `Raspberry Pi 4` · `Tailscale` · `Wake-on-LAN` · `SSH` · `Jellyfin`
 ## Github History
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nathansalvade/nathansalvade/blob/output/github-contribution-grid-snake.svg)
 ## Certifications
 
 **Anthropic**
