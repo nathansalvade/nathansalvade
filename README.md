@@ -11,7 +11,6 @@
   <img alt="Focus" src="https://img.shields.io/badge/focus-infrastructure%20%26%20development-6e7681?style=flat-square">
 </p>
 
-## Github History
 ![snake](https://raw.githubusercontent.com/nathansalvade/nathansalvade/output/github-contribution-grid-snake.svg)
 ---
 
