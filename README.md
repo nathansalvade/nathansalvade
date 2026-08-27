@@ -10,7 +10,7 @@
   <img alt="Location" src="https://img.shields.io/badge/Switzerland-6e7681?style=flat-square&logo=googlemaps&logoColor=white">
   <img alt="Focus" src="https://img.shields.io/badge/focus-infrastructure%20%26%20development-6e7681?style=flat-square">
 </p>
-![snake](https://raw.githubusercontent.com/nathansalvade/nathansalvade/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## About
@@ -85,7 +85,8 @@ Ubuntu Server for self-hosted services, kept reachable and manageable from anywh
 - Result: the main server stays off when idle but can be woken and administered on demand from anywhere
 
 `Raspberry Pi 4` · `Tailscale` · `Wake-on-LAN` · `SSH` · `Jellyfin`
-
+## Github History
+![snake](https://raw.githubusercontent.com/nathansalvade/nathansalvade/output/github-contribution-grid-snake.svg)
 ## Certifications
 
 **Anthropic**
