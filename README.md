@@ -1,6 +1,6 @@
 <h1 align="left">Nathan Salvadé</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=georgia&pause=1000&color=F7730F&center=true&width=500&lines=IT+Infrastructure+%26+Systems+Apprentice;Always+learning+new+things)](https://git.io/typing-svg)
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=georgia&pause=1000&color=F7730F&center=true&width=500&lines=IT+Infrastructure+%26+Systems+Apprentice;Always+learning+new+things" alt="Typing SVG" /></a></p>
 <p align="left">
   IT infrastructure &amp; systems — apprentice, Switzerland<br>
   I build web applications and automation, and I run my own Linux server end to end.
