@@ -86,7 +86,7 @@ Ubuntu Server for self-hosted services, kept reachable and manageable from anywh
 - Result: the main server stays off when idle but can be woken and administered on demand from anywhere
 
 `Raspberry Pi 4` · `Tailscale` · `Wake-on-LAN` · `SSH` · `Jellyfin`
-## My Contribution Graph
+## My Github History
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathansalvade/nathansalvade/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathansalvade/nathansalvade/output/pacman-contribution-graph.svg">
