@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  <a href="https://famsalvade.com"><img alt="Website" src="https://img.shields.io/badge/famsalvade.com-live-2f81f7?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://famsalvade.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/famsalvade.com-live-2f81f7?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Switzerland-6e7681?style=flat-square&logo=googlemaps&logoColor=white">
   <img alt="Focus" src="https://img.shields.io/badge/focus-infrastructure%20%26%20development-6e7681?style=flat-square">
 </p>
