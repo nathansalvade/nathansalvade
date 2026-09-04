@@ -88,9 +88,9 @@ Ubuntu Server for self-hosted services, kept reachable and manageable from anywh
 `Raspberry Pi 4` · `Tailscale` · `Wake-on-LAN` · `SSH` · `Jellyfin`
 ## My Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[nathansalvade]/[nathansalvade]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[nathansalvade]/[nathansalvade]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[nathansalvade]/[nathansalvade]/output/pacman-contribution-graph.svg">
 </picture>
 ## Certifications
 
