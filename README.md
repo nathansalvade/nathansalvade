@@ -92,6 +92,7 @@ Ubuntu Server for self-hosted services, kept reachable and manageable from anywh
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathansalvade/nathansalvade/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nathansalvade/nathansalvade/output/pacman-contribution-graph.svg">
 </picture>
+
 ## Certifications
 
 **Anthropic**
