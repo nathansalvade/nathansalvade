@@ -20,6 +20,7 @@
 - I run an **Ubuntu Server 24.04 LTS** environment and self-host my own site at [famsalvade.com](https://famsalvade.com).
 - Most of what I learn comes from building things and keeping them running: web apps, remote access, DNS, TLS, and the fixes when something breaks.
 - Interested in **AI &amp; LLM integration** and in automating the boring parts of sysadmin work.
+- I participate in team projects with my friends @carcifosupr3mo and @sim40702-debug
 
 
 ## Tech
